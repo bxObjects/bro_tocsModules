@@ -1,0 +1,3 @@
+#title: bro_tocsModules -- ByStar Repo Object for Target Oriented Command Services Modules
+
+* Just a starting point for now -- Primarily for facter tocsModules
